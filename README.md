@@ -1,3 +1,3 @@
 # Daily-Coding-Ben-Dreaming-Money-Problem
-Problem  
+### Problem  
 ![](prob.jpg)
